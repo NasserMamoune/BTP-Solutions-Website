@@ -244,12 +244,13 @@ header nav ul li a {
     .cards_container {
         width: 86%;
         display: flex;
-        justify-content: space-evenly;
+        justify-content: space-around;
         align-items: center;
     }   
     .service {
         max-width: 300px;
-        width: 240px;
+        width: 280px;
+        padding-right: 5px;
     }
 }
 
@@ -270,8 +271,16 @@ header nav ul li a {
 .service h2 {
     font-size: 15px;
     font-weight: 600;
-    padding-bottom: 18px;
+    padding-bottom: 15px;
     padding-top: 5px;
+}
+#services h1 {
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 8px;
+    padding-top: 25px;
+    color: var(--white);
 }
 .service p {
     font-size: 15px;
@@ -284,11 +293,11 @@ header nav ul li a {
     margin-left: -12px;
 }
 .img_parent img {
-    max-width: 60px;
-    width: 60px;
+    max-width: 70px;
+    width: 65px;
     display: block;
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 /* End Section 2  */
 /* Start Section 3  */
