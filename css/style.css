@@ -323,6 +323,7 @@ header nav ul li a {
         width: 80%;
         text-align: left;
         margin-bottom: 40px;
+        line-height: 1.5;
     }
 
 }
@@ -359,7 +360,7 @@ header nav ul li a {
       }
     #about_us .about_container p {
         width: 50%;
-        font-size: 1.9vw;
+        font-size: 1.5vw;
         margin-right: 30px;
         text-align: justify;
     }
