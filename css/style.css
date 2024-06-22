@@ -162,10 +162,10 @@ header nav ul li a {
         white-space: pre-line;
     }
     #accueil {
-        background-image: url(../images/mobile-cover.jpg);
+        background-image: url(../images/mobile-cover.webp);
     }
     .box p {
-        font-size: 2.5vw;
+        font-size: 12px;
     }
     .box button {
         max-width: 200px;
