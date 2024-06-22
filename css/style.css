@@ -63,6 +63,7 @@ header .container {
 }
 header .logo img {
     width: 40px;
+    height: auto;
     border-radius: 20px;
 }
 header nav {
@@ -143,6 +144,7 @@ header nav ul li a {
 /* Start Section 1  */
 #accueil {
     max-height: calc(100vh - 59.73px);
+    height: auto;
     background-image: url(../images/cover.webp);
     background-size: cover;
     background-repeat: no-repeat; 
@@ -295,6 +297,7 @@ header nav ul li a {
 .img_parent img {
     max-width: 70px;
     width: 65px;
+    height: auto;
     display: block;
     margin-top: 10px;
     margin-bottom: 8px;
@@ -317,6 +320,7 @@ header nav ul li a {
     }
     #about_us .about_container img {
         width: 80%;
+        height: auto;
     }
     #about_us .about_container p {
         font-size: 3vw;
@@ -336,6 +340,7 @@ header nav ul li a {
     }
     #about_us .about_container img {
         width: 400px;
+        height: auto;
         margin-right: 40px;
     }
     #about_us .about_container p {
@@ -357,6 +362,7 @@ header nav ul li a {
     }
     #about_us .about_container img {
          width: 450px;
+         height: auto;
       }
     #about_us .about_container p {
         width: 50%;
@@ -378,6 +384,7 @@ header nav ul li a {
 }
 #about_us .about_container img {
     max-width: 500px;
+    height: auto;
     border-radius: 12px;
 }
 /* End Section 3  */
@@ -483,6 +490,7 @@ header nav ul li a {
 .profile img {
     max-width: 100px;
     width: 60px;
+    height: auto;
     border-radius: 50%;
     position: absolute;
 }
@@ -742,6 +750,7 @@ form button {
 }
 .email img, .call img {
     width: 18px;
+    height: auto;
     margin-right: 10px;
 } 
 .frame_container {
