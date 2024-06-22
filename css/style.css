@@ -157,8 +157,11 @@ header nav ul li a {
         width: 80%;
     }
     .box h1 {
-        font-size: 4.2vw;
+        font-size: 3.6vw;
         white-space: pre-line;
+    }
+    #accueil {
+        background-image: url(../images/mobile-cover.jpg);
     }
     .box p {
         font-size: 2.5vw;
