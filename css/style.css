@@ -154,10 +154,11 @@ header nav ul li a {
 }
 @media (max-width: 767px) {
     .box {
+        background-color: #0c2c438f;
         width: 80%;
     }
     .box h1 {
-        font-size: 3vw;
+        font-size: 2.9vw;
         white-space: pre-line;
     }
     #accueil {
@@ -169,6 +170,7 @@ header nav ul li a {
 }
 @media (min-width: 768px) {
     .box {
+        background-color: #0c2c43ad;
         width: 65%;
     }
     .box h1 {
@@ -179,7 +181,6 @@ header nav ul li a {
     }
 }
 .box {
-    background-color: #0c2c43b1;
     margin-left: auto;
     margin-right: auto;
     border-radius: 12px;
