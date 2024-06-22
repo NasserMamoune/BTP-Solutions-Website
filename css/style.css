@@ -143,7 +143,7 @@ header nav ul li a {
 /* Start Section 1  */
 #accueil {
     max-height: calc(100vh - 59.73px);
-    background-image: url(../images/cover.jpg);
+    background-image: url(../images/cover.webp);
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center; 
