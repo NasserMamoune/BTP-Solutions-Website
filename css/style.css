@@ -155,11 +155,11 @@ header nav ul li a {
         width: 80%;
     }
     .box h1 {
-        font-size: 23px;
+        font-size: 4.2vw;
         white-space: pre-line;
     }
-    .box h5 {
-        font-size: 16px;
+    .box p {
+        font-size: 2.5vw;
     }
 }
 @media (min-width: 768px) {
@@ -167,9 +167,9 @@ header nav ul li a {
         width: 65%;
     }
     .box h1 {
-        font-size: 28px;
+        font-size: 2.5vw;
     }
-    .box h5 {
+    .box p {
         font-size: 18px;
     }
 }
@@ -188,7 +188,7 @@ header nav ul li a {
     white-space: pre-line;
     line-height: 1.6;
 }
-.box h5 {
+.box p {
     color: var(--white);
     line-height: 1.5;
     margin-top: 30px;
